@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect PAW - Productie - Gavril Tudor 1052C", "Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C.csproj", "{52925BE5-B0E2-4F92-8CA9-905CE384BB22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52925BE5-B0E2-4F92-8CA9-905CE384BB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52925BE5-B0E2-4F92-8CA9-905CE384BB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52925BE5-B0E2-4F92-8CA9-905CE384BB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52925BE5-B0E2-4F92-8CA9-905CE384BB22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {524B4B33-0E06-4287-9F94-B9D4AAD2DA48}
+	EndGlobalSection
+EndGlobal

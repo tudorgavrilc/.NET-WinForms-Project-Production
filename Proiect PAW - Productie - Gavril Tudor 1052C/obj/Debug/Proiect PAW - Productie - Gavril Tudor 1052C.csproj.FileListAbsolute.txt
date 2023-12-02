@@ -1,0 +1,24 @@
+C:\Users\Tudor\Desktop\C#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\bin\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.exe.config
+C:\Users\Tudor\Desktop\C#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\bin\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.exe
+C:\Users\Tudor\Desktop\C#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\bin\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.pdb
+C:\Users\Tudor\Desktop\C#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.csproj.AssemblyReference.cache
+C:\Users\Tudor\Desktop\C#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tudor\Desktop\C#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect_PAW___Productie___Gavril_Tudor_1052C.Properties.Resources.resources
+C:\Users\Tudor\Desktop\C#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.csproj.GenerateResource.cache
+C:\Users\Tudor\Desktop\C#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.csproj.CoreCompileInputs.cache
+C:\Users\Tudor\Desktop\C#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.exe
+C:\Users\Tudor\Desktop\C#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.pdb
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\bin\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.exe.config
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\bin\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.exe
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\bin\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.pdb
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.csproj.AssemblyReference.cache
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.csproj.SuggestedBindingRedirects.cache
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect_PAW___Productie___Gavril_Tudor_1052C.Properties.Resources.resources
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.csproj.GenerateResource.cache
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.csproj.CoreCompileInputs.cache
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.exe
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect PAW - Productie - Gavril Tudor 1052C.pdb
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect_PAW___Productie___Gavril_Tudor_1052C.Home.resources
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect_PAW___Productie___Gavril_Tudor_1052C.FormProduse.resources
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect_PAW___Productie___Gavril_Tudor_1052C.FormFiseConsum.resources
+D:\COD\FACULTATE\c#\Proiect PAW - Productie - Gavril Tudor 1052C\Proiect PAW - Productie - Gavril Tudor 1052C\obj\Debug\Proiect_PAW___Productie___Gavril_Tudor_1052C.FormLoturiFabricatie.resources
